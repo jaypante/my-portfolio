@@ -85,7 +85,7 @@ export default function Home() {
               <AiFillLinkedin className="cursor-pointer" />
             </a>
           </div>
-          <div className="relative bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 mx-auto overflow-hidden">
+          <div className="relative bg-gradient-to-b from-teal-500 rounded-full w-70 h-70 mt-10 mx-auto overflow-hidden">
             <Image src={jay} alt="profile"  />
           </div>
         </section>
@@ -136,7 +136,7 @@ export default function Home() {
 
               <h3 className="text-lg font-medium pt-8 pb-2">Mentor</h3>
               <p className="py-2">
-                The end goal! I'm want to share my experience to others by
+                The end goal! I want to share my experience to others by
                 contributing to communities and help them grow.
               </p>
               <h4 className="text-teal-700 pt-2 font-medium">
