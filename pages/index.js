@@ -85,7 +85,7 @@ export default function Home() {
               <AiFillLinkedin className="cursor-pointer" />
             </a>
           </div>
-          <div className="relative bg-gradient-to-b from-teal-500 rounded-full w-70 h-70 mt-10 mx-auto overflow-hidden">
+          <div className="relative bg-gradient-to-b from-teal-500 rounded-full w-72 h-72 mt-10 mx-auto overflow-hidden">
             <Image src={jay} alt="profile"  />
           </div>
         </section>
