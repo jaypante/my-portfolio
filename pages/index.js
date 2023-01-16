@@ -69,7 +69,7 @@ export default function Home() {
               className="text-medium py-5 leading-8 text-gray-800 max-w-xl mx-auto"
             >
               Since its just the beginning of my journey, I only have few things
-              to show. I wanted to work with talented people. I'm quitly
+              to show. I wanted to work with talented people. I'm quite
               confident, naturally curious, and perpetually working on improving
               my skills one at a time.
             </p>
